@@ -1,5 +1,5 @@
 def count_strings(array)
-  array.count { |string| string }
+  array.count { |String| String }
 
 
 
